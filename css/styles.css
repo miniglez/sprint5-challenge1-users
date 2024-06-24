@@ -65,7 +65,7 @@ ul{
 }
 
 ul li{
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.562);
   padding: 30px;
   width: 500px;
 }
@@ -80,6 +80,7 @@ li img{
 
 .userData{
   border: 1px #333 solid ;
+  border-radius: 5px;
   padding: 10px;
   width: 70%;
 }
